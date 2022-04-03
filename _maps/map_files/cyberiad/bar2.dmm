@@ -1,0 +1,3784 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"an" = (
+/obj/structure/table/wood,
+/obj/machinery/computer/secure_data/laptop{
+	desc = "Похоже, что на данном ноутбуке открыт какой-то старый браузер, со включенной вкладкой Twitch BANDA.";
+	name = "Ноутбук"
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"aB" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "rampbottom";
+	tag = "icon-stage_stairs"
+	},
+/area/centcom/evac)
+"aC" = (
+/obj/structure/chair/stool/bar,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"aN" = (
+/obj/structure/sink{
+	dir = 8;
+	pixel_x = -13
+	},
+/obj/structure/mirror{
+	pixel_x = -30
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"aR" = (
+/obj/structure/flora/tree/palm,
+/obj/item/beach_ball,
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"ba" = (
+/obj/machinery/vending/snack,
+/obj/structure/closet/hydrant{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"bg" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife,
+/obj/item/kitchen/knife/butcher,
+/obj/item/kitchen/knife/butcher/meatcleaver,
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"bi" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-32";
+	tag = "icon-plant-32"
+	},
+/obj/structure/closet/medical_wall{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"bn" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"bG" = (
+/obj/effect/decal/warning_stripes/white,
+/obj/machinery/door/airlock{
+	id_tag = "CC_toilet_unit3";
+	name = "Toilet"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"bV" = (
+/obj/structure/chair/sofa,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"cl" = (
+/obj/machinery/slot_machine,
+/obj/structure/window/reinforced,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"co" = (
+/obj/item/flag/nt,
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"cy" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/plating,
+/area/centcom/evac)
+"cB" = (
+/obj/structure/chair/sofa/right,
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "siding8"
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"cC" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"cE" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"cF" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/snacks/applecakeslice,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"cO" = (
+/obj/machinery/vending/cigarette,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"cU" = (
+/obj/structure/chair/wood{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"cV" = (
+/obj/structure/chair/wood,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"da" = (
+/obj/machinery/vending/cigarette,
+/obj/structure/closet/fireaxecabinet{
+	pixel_y = 32
+	},
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"db" = (
+/obj/structure/chair/stool/bar,
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "wood_siding8"
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"dG" = (
+/obj/structure/flora/ausbushes/sunnybush,
+/obj/structure/window/reinforced,
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"er" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"eD" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/item/clothing/mask/cigarette/pipe,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"eE" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/drinks/flask/detflask = 10, /obj/item/reagent_containers/food/drinks/cans/tonic = 10, /obj/item/reagent_containers/food/drinks/cans/thirteenloko = 10, /obj/item/reagent_containers/food/drinks/cans/synthanol = 10, /obj/item/reagent_containers/food/drinks/cans/space_mountain_wind = 10, /obj/item/reagent_containers/food/drinks/cans/lemon_lime = 10, "" = 70);
+	name = "Food CC Spawner #3"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"eU" = (
+/obj/structure/chair/sofa{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"fd" = (
+/obj/structure/table/reinforced,
+/obj/machinery/chem_dispenser/soda,
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"fm" = (
+/obj/structure/chair/sofa/left{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"fo" = (
+/obj/structure/chair/sofa/right{
+	dir = 1
+	},
+/obj/machinery/light/small,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"fp" = (
+/obj/structure/window/reinforced,
+/turf/simulated/floor/beach/water{
+	icon_state = "seadeep"
+	},
+/area/centcom/evac)
+"fB" = (
+/obj/effect/turf_decal/box/white/corners{
+	dir = 1
+	},
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "wood_siding2"
+	},
+/turf/simulated/floor/plasteel{
+	dir = 6;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"fN" = (
+/obj/structure/chair/sofa/left{
+	dir = 1
+	},
+/obj/machinery/light/small,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"gc" = (
+/obj/effect/turf_decal/box/corners,
+/turf/simulated/floor/mineral/abductor,
+/area/centcom/evac)
+"gs" = (
+/obj/structure/sign/poster/official/religious{
+	pixel_y = -32
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"gu" = (
+/turf/simulated/floor/plating,
+/area/centcom/evac)
+"gD" = (
+/turf/space/transit/horizontal{
+	dir = 4
+	},
+/area/centcom/evac)
+"gM" = (
+/obj/effect/overlay/coconut,
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"hb" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/flask/detflask{
+	pixel_x = -7;
+	pixel_y = 5
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"hc" = (
+/obj/structure/table/abductor{
+	name = "table"
+	},
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/snacks/baguette = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/soup/bloodsoup = 10, /obj/item/reagent_containers/food/snacks/boiledrice = 10, /obj/item/reagent_containers/food/snacks/carrotfries = 10, /obj/item/reagent_containers/food/drinks/cans/cola = 10, "" = 70);
+	name = "Food CC Spawner #1"
+	},
+/turf/simulated/floor/fakespace,
+/area/centcom/evac)
+"ht" = (
+/obj/effect/decal/cleanable/blood/oil/streak,
+/turf/simulated/floor/plasteel{
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"hu" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "darkbluecorners"
+	},
+/area/centcom/evac)
+"hw" = (
+/turf/simulated/floor/plasteel{
+	dir = 10;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"hG" = (
+/obj/effect/turf_decal/box/corners{
+	dir = 4
+	},
+/turf/simulated/floor/mineral/abductor,
+/area/centcom/evac)
+"hK" = (
+/turf/simulated/floor/plasteel{
+	dir = 6;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"hZ" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"ix" = (
+/obj/structure/chair/sofa{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"iP" = (
+/obj/structure/table/abductor{
+	name = "table"
+	},
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/snacks/lasagna = 10, /obj/item/reagent_containers/food/snacks/sliceable/pizza/hawaiianpizza = 10, /obj/item/reagent_containers/food/snacks/sushi_TobikoEgg = 10, /obj/item/reagent_containers/food/snacks/bigbiteburger = 10, /obj/item/reagent_containers/food/snacks/sushi_SmokedSalmon = 10, "" = 70);
+	name = "Food CC Spawner #2"
+	},
+/turf/simulated/floor/fakespace,
+/area/centcom/evac)
+"iV" = (
+/obj/structure/table/wood,
+/obj/item/reagent_containers/food/drinks/trophy/gold_cup,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"iW" = (
+/turf/unsimulated/wall/fakeglass,
+/area/centcom/evac)
+"jd" = (
+/obj/structure/curtain/open/shower,
+/obj/machinery/shower{
+	dir = 4;
+	pixel_x = 4;
+	tag = "icon-shower (EAST)"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"jo" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"js" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "neutralcorner"
+	},
+/area/centcom/evac)
+"jP" = (
+/obj/structure/chair/sofa/left,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"kj" = (
+/obj/machinery/slot_machine,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"kt" = (
+/obj/effect/decal/warning_stripes/white,
+/obj/machinery/door/airlock{
+	id_tag = "CC_toilet_unit2";
+	name = "Toilet"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"kA" = (
+/obj/structure/chair/comfy/teal{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"la" = (
+/obj/effect/turf_decal/box/white/corners{
+	dir = 4
+	},
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "wood_siding2"
+	},
+/turf/simulated/floor/plasteel{
+	dir = 10;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"ll" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "arrivalcorner"
+	},
+/area/centcom/evac)
+"lm" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"ly" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"lA" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/obj/machinery/light,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"lC" = (
+/obj/effect/decal/warning_stripes/white,
+/obj/machinery/door/airlock{
+	id_tag = "CC_toilet_unit1";
+	name = "Toilet"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"lL" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"lQ" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"lZ" = (
+/obj/structure/chair/sofa/right{
+	dir = 8
+	},
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"mf" = (
+/obj/item/toy/plushie/blue_fox,
+/turf/simulated/floor/plating,
+/area/centcom/evac)
+"ml" = (
+/obj/structure/toilet{
+	dir = 4;
+	name = "Трон старшего администратора"
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/machinery/door_control{
+	id = "CC_toilet_unit3";
+	name = "Door Bolt Control";
+	normaldoorcontrol = 1;
+	pixel_y = 25;
+	specialfunctions = 4
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"mp" = (
+/obj/machinery/vending/cigarette,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"ms" = (
+/obj/structure/toilet{
+	dir = 8;
+	name = "Трон старшего администратора"
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/machinery/door_control{
+	id = "CC_toilet_unit4";
+	name = "Door Bolt Control";
+	normaldoorcontrol = 1;
+	pixel_y = 25;
+	specialfunctions = 4
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"mu" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/simulated/floor/beach/water{
+	icon_state = "seadeep"
+	},
+/area/centcom/evac)
+"mx" = (
+/obj/structure/chair/comfy/purp{
+	dir = 1
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"mR" = (
+/obj/structure/flora/ausbushes/sunnybush,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"nd" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-32";
+	tag = "icon-plant-32"
+	},
+/obj/structure/window/reinforced,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"ne" = (
+/turf/space,
+/area/centcom/evac)
+"nz" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 6;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"nQ" = (
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "neutralcorner"
+	},
+/area/centcom/evac)
+"nU" = (
+/obj/machinery/kitchen_machine/candy_maker,
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"nV" = (
+/obj/structure/chair/sofa{
+	dir = 8
+	},
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"nW" = (
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "wood_siding2"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"nX" = (
+/obj/structure/reagent_dispensers/beerkeg,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"oc" = (
+/obj/structure/holosign/wetsign,
+/turf/simulated/floor/plasteel,
+/area/centcom/evac)
+"oi" = (
+/obj/effect/turf_decal/box/white/corners{
+	dir = 8
+	},
+/turf/simulated/floor/plasteel{
+	dir = 5;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"ot" = (
+/turf/simulated/floor/plasteel{
+	dir = 9;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"oD" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/window/reinforced,
+/turf/simulated/floor/beach/water{
+	icon_state = "seadeep"
+	},
+/area/centcom/evac)
+"oK" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 1;
+	tag = "icon-fakewindows (EAST)"
+	},
+/area/centcom/evac)
+"oL" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/table,
+/obj/item/storage/fancy/cigarettes/cigpack_random,
+/obj/item/storage/fancy/cigarettes/cigpack_robust,
+/obj/item/storage/fancy/cigarettes/cigpack_robustgold,
+/obj/item/storage/fancy/cigarettes/cigpack_shadyjims,
+/obj/item/storage/fancy/cigarettes/cigpack_uplift,
+/obj/item/storage/fancy/cigarettes/dromedaryco,
+/obj/item/storage/fancy/cigarettes/cigpack_carp,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"oQ" = (
+/obj/structure/toilet{
+	dir = 4;
+	name = "Трон старшего администратора"
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/machinery/door_control{
+	id = "CC_toilet_unit2";
+	name = "Door Bolt Control";
+	normaldoorcontrol = 1;
+	pixel_y = 25;
+	specialfunctions = 4
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"oW" = (
+/obj/structure/closet/crate/can,
+/obj/structure/closet/hydrant{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"pf" = (
+/obj/machinery/door/airlock/multi_tile/glass,
+/obj/effect/decal/warning_stripes/white,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"pm" = (
+/obj/effect/decal/warning_stripes/white,
+/obj/machinery/door/airlock{
+	id_tag = "CC_toilet_unit4";
+	name = "Toilet"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"pn" = (
+/obj/structure/table,
+/obj/machinery/reagentgrinder,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"pq" = (
+/obj/structure/chair/stool/bar,
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"px" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "grimy"
+	},
+/area/centcom/evac)
+"pD" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/simulated/floor/beach/water{
+	icon_state = "seadeep"
+	},
+/area/centcom/evac)
+"pI" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 4;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/evac)
+"pP" = (
+/obj/structure/urinal{
+	pixel_y = 32
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"qc" = (
+/obj/structure/lattice,
+/turf/unsimulated/wall/fakeglass{
+	dir = 1;
+	tag = "icon-fakewindows (EAST)"
+	},
+/area/centcom/evac)
+"qu" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"qW" = (
+/obj/item/clothing/glasses/sunglasses/yeah,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"qX" = (
+/obj/item/flag/nt,
+/obj/structure/closet/medical_wall{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"rD" = (
+/obj/structure/chair/sofa/left{
+	dir = 8
+	},
+/obj/machinery/light/small,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"rG" = (
+/turf/simulated/floor/plasteel{
+	dir = 5;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"sa" = (
+/obj/structure/chair/sofa/left{
+	dir = 8
+	},
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"si" = (
+/obj/structure/chair/sofa{
+	dir = 8
+	},
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"sn" = (
+/obj/machinery/door/airlock/external{
+	aiControlDisabled = 1;
+	frequency = 1379;
+	hackProof = 1;
+	icon_state = "door_locked";
+	id_tag = "emergency_away";
+	locked = 1;
+	name = "Arrival Airlock";
+	req_access = null
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"sD" = (
+/obj/machinery/vending/dinnerware{
+	req_access_txt = "102"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"sN" = (
+/obj/structure/sign/poster/official/nanotrasen_logo{
+	pixel_y = -32
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"sZ" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/knife,
+/obj/item/kitchen/rollingpin,
+/obj/item/reagent_containers/glass/beaker/large{
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/glass/beaker/large{
+	pixel_y = 8
+	},
+/obj/item/reagent_containers/glass/beaker/large{
+	pixel_y = 8
+	},
+/obj/item/storage/box/donkpockets{
+	pixel_x = 3;
+	pixel_y = 3
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"ti" = (
+/obj/structure/table,
+/obj/item/paper_bin/nanotrasen{
+	pixel_x = 3;
+	pixel_y = 12
+	},
+/obj/item/pen/multi/fountain,
+/obj/machinery/embedded_controller/radio/airlock/access_controller{
+	frequency = 2000;
+	name = "Access Controller OP1";
+	pixel_x = -32;
+	pixel_y = 32;
+	req_access_txt = "109";
+	tag_exterior_door = "CC-OP1-Ext";
+	tag_interior_door = "CC-OP1-Int"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "grimy"
+	},
+/area/centcom/evac)
+"tq" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-32";
+	tag = "icon-plant-32"
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"tM" = (
+/obj/structure/chair/sofa{
+	dir = 8
+	},
+/obj/structure/sign/poster/secret/yug0{
+	pixel_x = 32
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"ub" = (
+/obj/structure/closet/crate/can,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"uF" = (
+/turf/simulated/floor/plasteel{
+	dir = 9;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"uG" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-28";
+	tag = "icon-plant-28"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"uK" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 13
+	},
+/obj/structure/mirror{
+	pixel_x = 30
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"uL" = (
+/obj/structure/chair/comfy/teal{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"uP" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "arrivalcorner"
+	},
+/area/centcom/evac)
+"uV" = (
+/obj/structure/holosign/wetsign,
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"uX" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "darkbluecorners"
+	},
+/area/centcom/evac)
+"vk" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"vu" = (
+/obj/structure/mineral_door/wood,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"vz" = (
+/obj/structure/closet/secure_closet/freezer/fridge,
+/obj/item/reagent_containers/food/condiment/milk,
+/obj/item/reagent_containers/food/condiment/milk,
+/obj/item/reagent_containers/food/condiment/soymilk,
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"vE" = (
+/obj/structure/chair/sofa{
+	dir = 10
+	},
+/obj/effect/turf_decal/box/red/corners{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 5;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"vL" = (
+/obj/structure/chair/sofa,
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"vO" = (
+/turf/simulated/floor/plasteel{
+	dir = 9;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"vR" = (
+/obj/structure/bookcase/manuals,
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"wj" = (
+/turf/space,
+/area/space)
+"wp" = (
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"wu" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-32";
+	tag = "icon-plant-32"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"wM" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-6";
+	tag = "icon-plant-6"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"wO" = (
+/turf/simulated/floor/plating/airless,
+/area/centcom/evac)
+"wZ" = (
+/obj/structure/table/reinforced,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"xb" = (
+/obj/structure/closet/crate/can,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"xd" = (
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkbluecorners"
+	},
+/area/centcom/evac)
+"xq" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-22";
+	tag = "icon-plant-22"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"xG" = (
+/obj/structure/holosign/wetsign,
+/turf/simulated/floor/plasteel{
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"xH" = (
+/turf/unsimulated/wall/fakeglass{
+	icon_state = "fakewindows2";
+	tag = "icon-fakewindows2 (WEST)"
+	},
+/area/centcom/evac)
+"xU" = (
+/obj/structure/chair/sofa/right{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"yJ" = (
+/obj/effect/turf_decal/plaque,
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"yO" = (
+/obj/structure/chair/stool/bar,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"yX" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "darkbluecorners"
+	},
+/area/centcom/evac)
+"zl" = (
+/obj/machinery/light,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"zs" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"Am" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 8;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/evac)
+"At" = (
+/obj/structure/chair/sofa{
+	dir = 6
+	},
+/obj/effect/turf_decal/box/red/corners{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 9;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Ay" = (
+/obj/structure/table/reinforced,
+/obj/machinery/kitchen_machine/microwave{
+	pixel_x = -3;
+	pixel_y = 6
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"AB" = (
+/obj/structure/table/wood/poker,
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "siding8"
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"AS" = (
+/obj/machinery/vending/snack,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"AT" = (
+/obj/effect/turf_decal/box/white/corners{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 6;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"AV" = (
+/obj/structure/window/reinforced{
+	dir = 1
+	},
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"Bm" = (
+/obj/structure/toilet{
+	dir = 4;
+	name = "Трон старшего администратора"
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/machinery/door_control{
+	id = "CC_toilet_unit1";
+	name = "Door Bolt Control";
+	normaldoorcontrol = 1;
+	pixel_y = 25;
+	specialfunctions = 4
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"Bq" = (
+/obj/structure/curtain/open/shower/security,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Bv" = (
+/obj/structure/falsewall/reinforced{
+	icon = 'icons/turf/walls/coated_reinforced_wall.dmi'
+	},
+/turf/simulated/floor/plating,
+/area/centcom/evac)
+"BA" = (
+/obj/structure/table/reinforced,
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"BO" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-30";
+	tag = "icon-plant-30"
+	},
+/obj/machinery/light/small,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"CD" = (
+/obj/structure/chair/wood{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"CL" = (
+/obj/structure/closet/secure_closet/bar{
+	req_access = null
+	},
+/obj/item/storage/box/beakers/bluespace,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/reagent_containers/iv_bag/blood/random,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"CR" = (
+/obj/structure/chair/sofa{
+	dir = 5
+	},
+/obj/effect/turf_decal/box/red/corners{
+	dir = 8
+	},
+/turf/simulated/floor/plasteel{
+	dir = 10;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"CV" = (
+/obj/structure/bookcase/manuals,
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/obj/item/book/manual/security_space_law{
+	pixel_x = 3
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Db" = (
+/obj/machinery/vending/dinnerware{
+	req_access_txt = "102"
+	},
+/obj/structure/sign/barsign{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"De" = (
+/obj/structure/chair/sofa/right{
+	dir = 1
+	},
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "siding8"
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"Df" = (
+/obj/structure/chair/sofa{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Dg" = (
+/obj/machinery/light/small,
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Dq" = (
+/obj/structure/chair/stool/bar,
+/obj/structure/window/reinforced,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"DJ" = (
+/obj/structure/table/reinforced,
+/obj/item/stack/packageWrap,
+/obj/item/reagent_containers/food/drinks/bottle/cream,
+/obj/item/reagent_containers/food/snacks/mint,
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"DX" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-17";
+	tag = "icon-plant-17"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Eb" = (
+/obj/structure/chair/comfy/brown{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Ee" = (
+/obj/structure/chair/sofa/right{
+	dir = 4
+	},
+/obj/machinery/light/small,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Eh" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "neutralcorner"
+	},
+/area/centcom/evac)
+"Ew" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/table,
+/obj/item/storage/box/matches,
+/obj/item/toy/figure/bartender,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"EA" = (
+/obj/structure/table/wood/fancy/black,
+/obj/item/reagent_containers/food/drinks/cans/beer,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"EE" = (
+/obj/structure/lattice,
+/turf/unsimulated/wall{
+	icon = 'icons/turf/walls/coated_reinforced_wall.dmi';
+	icon_state = "r_wall"
+	},
+/area/centcom/evac)
+"Fo" = (
+/obj/effect/turf_decal/box/corners{
+	dir = 1
+	},
+/turf/simulated/floor/mineral/abductor,
+/area/centcom/evac)
+"Fx" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-30";
+	tag = "icon-plant-30"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Fz" = (
+/obj/item/flag/nt,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"FD" = (
+/obj/structure/chair/stool/bar,
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"FI" = (
+/obj/structure/chair/sofa{
+	dir = 10
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"FR" = (
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"FX" = (
+/obj/structure/table,
+/obj/machinery/chem_dispenser/soda/upgraded,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Gb" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/item/toy/plushie/nukeplushie,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Gc" = (
+/obj/effect/turf_decal/caution/stand_clear/red,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Gk" = (
+/obj/item/flag/nt,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Gt" = (
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"GC" = (
+/obj/structure/table,
+/obj/item/pizzabox/hawaiian,
+/obj/item/pizzabox/hawaiian,
+/obj/item/pizzabox/hawaiian,
+/obj/item/pizzabox/margherita,
+/obj/item/pizzabox/margherita,
+/obj/item/pizzabox/margherita,
+/obj/item/pizzabox/meat,
+/obj/item/pizzabox/meat,
+/obj/item/pizzabox/meat,
+/obj/item/pizzabox/mushroom,
+/obj/item/pizzabox/mushroom,
+/obj/item/pizzabox/mushroom,
+/obj/item/pizzabox/vegetable,
+/obj/item/pizzabox/vegetable,
+/obj/item/pizzabox/vegetable,
+/obj/item/book/manual/barman_recipes,
+/obj/item/reagent_containers/food/drinks/shaker,
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"GS" = (
+/turf/simulated/floor/plasteel{
+	dir = 10;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"GU" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"Hc" = (
+/obj/structure/chair/wood{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Hz" = (
+/obj/structure/table/wood/fancy,
+/obj/item/toy/cards/deck,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"HA" = (
+/obj/item/twohanded/required/kirbyplants,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"HE" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/item/stock_parts/cell/infinite{
+	desc = "Интересная батарейка золотого цвета, главный вопрос который вас терзает - а что она делает в космосе? \n Жаль что контакты окислились.";
+	name = "Батарейка в космосе?"
+	},
+/turf/simulated/floor/beach/water{
+	icon_state = "seadeep"
+	},
+/area/centcom/evac)
+"HH" = (
+/obj/effect/turf_decal/box/white/corners,
+/turf/simulated/floor/plasteel{
+	dir = 9;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"HN" = (
+/obj/structure/chair/sofa/right,
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"HS" = (
+/obj/structure/table/wood/fancy/black,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"HT" = (
+/obj/item/twohanded/required/kirbyplants,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"HX" = (
+/obj/structure/chair/sofa{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Ib" = (
+/obj/structure/chair/sofa{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Ig" = (
+/obj/structure/table/wood/fancy/black,
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/snacks/baguette = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/soup/bloodsoup = 10, /obj/item/reagent_containers/food/snacks/boiledrice = 10, /obj/item/reagent_containers/food/snacks/carrotfries = 10, /obj/item/reagent_containers/food/drinks/cans/cola = 10, "" = 70);
+	name = "Food CC Spawner #1"
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"IJ" = (
+/turf/simulated/floor/plasteel{
+	dir = 5;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"IK" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 8;
+	icon_state = "fakewindows3";
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/evac)
+"IL" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "arrivalcorner"
+	},
+/area/centcom/evac)
+"IN" = (
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Jm" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/arcade,
+/area/centcom/evac)
+"Jw" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-22";
+	tag = "icon-plant-22"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"JC" = (
+/turf/simulated/floor/light,
+/area/centcom/evac)
+"JD" = (
+/turf/unsimulated/wall{
+	icon = 'icons/turf/walls/coated_reinforced_wall.dmi';
+	icon_state = "r_wall"
+	},
+/area/centcom/evac)
+"JJ" = (
+/obj/machinery/door/airlock/multi_tile/glass{
+	dir = 2
+	},
+/obj/effect/decal/warning_stripes/white,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"JK" = (
+/obj/structure/sink{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"JS" = (
+/obj/effect/decal/warning_stripes/white,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"JV" = (
+/obj/machinery/vending/cola/free,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Kf" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Ks" = (
+/obj/machinery/reagentgrinder{
+	layer = 4;
+	pixel_x = -1;
+	pixel_y = 9
+	},
+/obj/structure/table/reinforced,
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"KH" = (
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "wood_siding1"
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"KM" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"KW" = (
+/obj/structure/lattice,
+/turf/unsimulated/wall/fakeglass{
+	dir = 8;
+	icon_state = "fakewindows2";
+	tag = "icon-fakewindows2 (WEST)"
+	},
+/area/centcom/evac)
+"Lg" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-28";
+	tag = "icon-plant-28"
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Lm" = (
+/turf/simulated/floor/carpet/arcade,
+/area/centcom/evac)
+"Lv" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "neutralcorner"
+	},
+/area/centcom/evac)
+"LN" = (
+/obj/machinery/vending/cigarette,
+/obj/structure/closet/fireaxecabinet{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"LZ" = (
+/obj/machinery/light,
+/turf/simulated/floor/plasteel{
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"Mh" = (
+/obj/structure/chair/sofa/right{
+	dir = 8
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"MP" = (
+/obj/structure/table/wood/poker,
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"Ng" = (
+/obj/structure/table,
+/obj/machinery/chem_dispenser/beer/upgraded,
+/obj/structure/sign/barsign{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Nh" = (
+/obj/machinery/vending/cola/free,
+/obj/structure/closet/medical_wall{
+	pixel_y = 32
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"NF" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"Om" = (
+/obj/structure/sign/barsign{
+	pixel_y = -32
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"OE" = (
+/obj/structure/curtain/open/shower,
+/obj/machinery/shower{
+	dir = 4;
+	pixel_x = -4;
+	tag = "icon-shower (EAST)"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"OK" = (
+/obj/docking_port/stationary{
+	dir = 4;
+	dwidth = 1;
+	height = 4;
+	id = "pod4_away";
+	name = "recovery ship bay 4";
+	turf_type = /turf/simulated/floor;
+	width = 3
+	},
+/turf/simulated/floor/plating/airless,
+/area/centcom/evac)
+"Pc" = (
+/obj/effect/decal/cleanable/blood/oil/streak,
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/simulated/floor/plating,
+/area/centcom/evac)
+"Pe" = (
+/obj/structure/chair/sofa{
+	dir = 8
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"Pt" = (
+/obj/structure/chair/sofa/left,
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Px" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/drinks/flask/detflask = 10, /obj/item/reagent_containers/food/drinks/cans/tonic = 10, /obj/item/reagent_containers/food/drinks/cans/thirteenloko = 10, /obj/item/reagent_containers/food/drinks/cans/synthanol = 10, /obj/item/reagent_containers/food/drinks/cans/space_mountain_wind = 10, /obj/item/reagent_containers/food/drinks/cans/lemon_lime = 10, "" = 70);
+	name = "Food CC Spawner #3"
+	},
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"PD" = (
+/obj/structure/table/wood/poker,
+/obj/item/toy/cards/deck,
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"PF" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "plant-22";
+	tag = "icon-plant-22"
+	},
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"PS" = (
+/obj/machinery/bottler,
+/obj/structure/table,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Qe" = (
+/obj/structure/lattice,
+/turf/space/transit/horizontal{
+	dir = 4
+	},
+/area/centcom/evac)
+"Qn" = (
+/obj/structure/bookcase/manuals,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Qq" = (
+/obj/structure/table/wood/fancy/black,
+/obj/item/candle/eternal,
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Qu" = (
+/obj/structure/table/reinforced,
+/obj/item/pizzabox/hawaiian,
+/obj/item/pizzabox/hawaiian,
+/obj/item/pizzabox/hawaiian,
+/obj/item/pizzabox/margherita,
+/obj/item/pizzabox/margherita,
+/obj/item/pizzabox/margherita,
+/obj/item/pizzabox/meat,
+/obj/item/pizzabox/meat,
+/obj/item/pizzabox/meat,
+/obj/item/pizzabox/mushroom,
+/obj/item/pizzabox/mushroom,
+/obj/item/pizzabox/mushroom,
+/obj/item/pizzabox/vegetable,
+/obj/item/pizzabox/vegetable,
+/obj/item/pizzabox/vegetable,
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"Qz" = (
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"QB" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/food/condiment/enzyme{
+	layer = 5;
+	pixel_y = 14
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"QL" = (
+/obj/structure/table/reinforced,
+/obj/machinery/processor{
+	pixel_y = 9
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"QP" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"QT" = (
+/obj/effect/turf_decal/box/white/corners{
+	dir = 4
+	},
+/turf/simulated/floor/plasteel{
+	dir = 10;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"QX" = (
+/obj/machinery/door/firedoor,
+/obj/effect/decal/warning_stripes/yellow,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"QZ" = (
+/obj/structure/table/wood/fancy/black,
+/obj/item/toy/cards/deck,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"RQ" = (
+/obj/structure/table/wood/fancy,
+/obj/item/toy/plushie/fluff/fox,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"RV" = (
+/obj/machinery/slot_machine,
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Sa" = (
+/obj/structure/table/wood/fancy,
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/snacks/baguette = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/soup/bloodsoup = 10, /obj/item/reagent_containers/food/snacks/boiledrice = 10, /obj/item/reagent_containers/food/snacks/carrotfries = 10, /obj/item/reagent_containers/food/drinks/cans/cola = 10, "" = 70);
+	name = "Food CC Spawner #1"
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Sd" = (
+/obj/machinery/door/airlock/wood{
+	frequency = 2000;
+	id_tag = "CC-OP1-Ext";
+	locked = 1;
+	name = "Zone 1"
+	},
+/obj/effect/turf_decal/delivery/white,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"SF" = (
+/obj/effect/turf_decal/box/corners{
+	dir = 8
+	},
+/turf/simulated/floor/mineral/abductor,
+/area/centcom/evac)
+"SZ" = (
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Tj" = (
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"To" = (
+/obj/structure/sign/barsign{
+	pixel_y = 32
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"TB" = (
+/obj/effect/decal/cleanable/blood/oil/streak,
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"TL" = (
+/obj/structure/chair/sofa{
+	dir = 9
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"Ul" = (
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/simulated/floor/plasteel{
+	dir = 8;
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"Ur" = (
+/obj/structure/table/reinforced,
+/obj/item/kitchen/sushimat,
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"Uv" = (
+/obj/structure/curtain/open/shower,
+/obj/machinery/shower{
+	dir = 8;
+	pixel_x = 4;
+	tag = "icon-shower (EAST)"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "white"
+	},
+/area/centcom/evac)
+"Uy" = (
+/obj/structure/closet/crate/freezer{
+	desc = "Холодильник с напитками. Ничего необычного."
+	},
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/obj/item/reagent_containers/food/drinks/cans/iced_tea,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"UX" = (
+/obj/effect/turf_decal/plaque,
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "wood_siding8"
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"UZ" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "warnwhitecorner"
+	},
+/area/centcom/evac)
+"Vl" = (
+/obj/machinery/vending/snack,
+/obj/structure/closet/hydrant{
+	pixel_y = 32
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Vo" = (
+/obj/item/twohanded/required/kirbyplants{
+	icon_state = "applebush"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Vs" = (
+/obj/machinery/icemachine,
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"Vv" = (
+/obj/structure/chair/sofa/left{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"VE" = (
+/obj/structure/chair/sofa{
+	dir = 9
+	},
+/obj/effect/turf_decal/box/red/corners,
+/turf/simulated/floor/plasteel{
+	dir = 6;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"VQ" = (
+/obj/structure/reagent_dispensers/beerkeg,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Wl" = (
+/obj/machinery/door/airlock/shuttle,
+/obj/effect/decal/warning_stripes/white,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Wn" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/food/condiment/peppermill{
+	pixel_x = 3;
+	pixel_y = 11
+	},
+/obj/item/reagent_containers/food/condiment/saltshaker{
+	pixel_x = -3;
+	pixel_y = 11
+	},
+/obj/item/book/manual/sop_service,
+/turf/simulated/floor/plasteel{
+	icon_state = "redfull";
+	tag = "icon-redfull (NORTHWEST)"
+	},
+/area/centcom/evac)
+"Wo" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/effect/spawner/lootdrop{
+	loot = list(/obj/item/reagent_containers/food/snacks/baguette = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/applepie = 10, /obj/item/reagent_containers/food/snacks/soup/bloodsoup = 10, /obj/item/reagent_containers/food/snacks/boiledrice = 10, /obj/item/reagent_containers/food/snacks/carrotfries = 10, /obj/item/reagent_containers/food/drinks/cans/cola = 10, "" = 70);
+	name = "Food CC Spawner #1"
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Ws" = (
+/obj/structure/chair{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"WF" = (
+/turf/simulated/floor/fakespace,
+/area/centcom/evac)
+"WJ" = (
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "arrival"
+	},
+/area/centcom/evac)
+"WN" = (
+/turf/simulated/floor/plasteel,
+/area/centcom/evac)
+"WR" = (
+/obj/structure/table/wood/fancy,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Xa" = (
+/obj/docking_port/stationary{
+	dir = 4;
+	dwidth = 1;
+	height = 4;
+	id = "pod3_away";
+	name = "recovery ship bay 3";
+	turf_type = /turf/simulated/floor;
+	width = 3
+	},
+/turf/simulated/floor/plating/airless,
+/area/centcom/evac)
+"Xh" = (
+/obj/structure/table/reinforced,
+/obj/machinery/kitchen_machine/microwave{
+	pixel_x = -3;
+	pixel_y = 6
+	},
+/turf/simulated/floor/plasteel{
+	dir = 4;
+	icon_state = "warnwhite"
+	},
+/area/centcom/evac)
+"Xt" = (
+/obj/structure/chair/sofa/right{
+	dir = 1
+	},
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Xy" = (
+/obj/machinery/vending/boozeomat,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"XP" = (
+/obj/machinery/vending/cola/free,
+/turf/simulated/floor/plasteel{
+	icon_state = "dark"
+	},
+/area/centcom/evac)
+"Yj" = (
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "siding2"
+	},
+/turf/simulated/floor/plasteel{
+	icon_state = "darkblue"
+	},
+/area/centcom/evac)
+"Yl" = (
+/obj/structure/table/wood/poker,
+/obj/item/toy/cards/deck,
+/obj/effect/decal/warning_stripes/west{
+	icon = 'icons/turf/floors.dmi';
+	icon_state = "siding8"
+	},
+/turf/simulated/floor/carpet,
+/area/centcom/evac)
+"Yy" = (
+/obj/structure/table/wood/fancy/black,
+/obj/item/candle/eternal,
+/obj/machinery/light/small,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"YJ" = (
+/obj/machinery/light/small,
+/turf/simulated/floor/carpet/arcade,
+/area/centcom/evac)
+"YN" = (
+/turf/simulated/floor/plasteel{
+	dir = 1;
+	icon_state = "neutral"
+	},
+/area/centcom/evac)
+"YQ" = (
+/obj/effect/overlay/coconut,
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/obj/structure/window/reinforced,
+/turf/simulated/floor/beach/sand,
+/area/centcom/evac)
+"YY" = (
+/obj/structure/chair/sofa/right,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Zm" = (
+/obj/structure/piano{
+	icon_state = "piano"
+	},
+/obj/structure/window/reinforced{
+	dir = 8
+	},
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"Zn" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 8;
+	icon_state = "fakewindows2";
+	tag = "icon-fakewindows2 (WEST)"
+	},
+/area/centcom/evac)
+"Zt" = (
+/obj/item/twohanded/required/kirbyplants,
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"Zw" = (
+/obj/structure/filingcabinet/filingcabinet,
+/turf/simulated/floor/plasteel{
+	icon_state = "grimy"
+	},
+/area/centcom/evac)
+"ZI" = (
+/obj/structure/chair/sofa/left{
+	dir = 4
+	},
+/turf/simulated/floor/carpet/black,
+/area/centcom/evac)
+"ZJ" = (
+/turf/simulated/floor/beach/water{
+	icon_state = "seadeep"
+	},
+/area/centcom/evac)
+"ZN" = (
+/obj/machinery/vending/coffee,
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+"ZO" = (
+/turf/simulated/floor/wood,
+/area/centcom/evac)
+
+(1,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+ne
+ne
+ne
+ne
+ne
+gD
+gD
+gD
+gD
+gD
+gD
+gD
+gD
+gD
+EE
+oK
+xH
+xH
+xH
+xH
+iW
+JD
+JD
+JD
+QL
+fd
+Ur
+Ks
+Ay
+uF
+qu
+qu
+"}
+(2,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+pI
+JD
+JD
+JD
+pI
+gD
+gD
+JD
+oK
+xH
+xH
+xH
+xH
+iW
+JD
+eE
+cE
+er
+eE
+cE
+er
+eE
+cE
+JD
+wZ
+uF
+qu
+hw
+Xh
+Gt
+JK
+DJ
+"}
+(3,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+QX
+QX
+QX
+JD
+oK
+iW
+JD
+HT
+PS
+pn
+er
+aC
+lQ
+ZO
+aC
+aC
+aC
+aC
+aC
+aC
+aC
+aC
+JD
+sD
+Gt
+jo
+jo
+jo
+jo
+Wn
+sZ
+"}
+(4,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+cC
+xb
+HA
+HA
+JD
+Ng
+px
+px
+eE
+aC
+Lm
+Lm
+Lm
+Lm
+Lm
+Lm
+Lm
+Lm
+Lm
+Lm
+JD
+uF
+UZ
+jo
+lm
+bg
+Gt
+JK
+QB
+"}
+(5,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+Lv
+hZ
+GS
+Ws
+JD
+FX
+px
+px
+er
+aC
+Lm
+At
+HX
+xU
+yX
+xd
+fm
+HX
+CR
+Lm
+JD
+IJ
+NF
+jo
+nz
+BA
+IJ
+NF
+NF
+"}
+(6,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+zs
+WN
+WN
+WN
+cC
+Ws
+JD
+Xy
+px
+px
+Gb
+aC
+Lm
+vL
+iP
+iP
+WF
+WF
+hc
+hc
+Ib
+YJ
+JD
+JD
+JD
+JD
+JD
+Qu
+Vs
+nU
+vz
+"}
+(7,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+rG
+bn
+bn
+Eh
+cC
+lA
+JD
+qX
+px
+px
+ZO
+ZO
+Lm
+Pt
+hc
+hc
+JC
+JC
+hc
+hc
+Vv
+Lm
+JD
+ub
+Tj
+IN
+JD
+JD
+JD
+JD
+JD
+"}
+(8,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+Gk
+HA
+HA
+YN
+cC
+Gk
+JD
+oW
+px
+px
+er
+aC
+Lm
+hu
+WF
+JC
+Fo
+SF
+JC
+WF
+uX
+Lm
+JD
+xq
+HH
+QT
+Qz
+Qz
+Gc
+Sd
+JD
+"}
+(9,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+JD
+JD
+JD
+YN
+cC
+Ws
+JD
+CL
+px
+px
+eE
+aC
+Lm
+xd
+WF
+JC
+hG
+gc
+JC
+WF
+yX
+Lm
+JD
+Nh
+oi
+AT
+vk
+vk
+Gc
+Sd
+JD
+"}
+(10,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+Bm
+jd
+JD
+YN
+cC
+Ws
+JD
+Db
+px
+px
+eD
+aC
+Lm
+HN
+hc
+iP
+JC
+JC
+hc
+hc
+Xt
+Lm
+JD
+da
+Tj
+IN
+JD
+JD
+IK
+JD
+IK
+"}
+(11,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+pP
+uK
+lC
+YN
+cC
+Ws
+JD
+GC
+px
+px
+eE
+aC
+Lm
+vL
+iP
+hc
+WF
+WF
+hc
+hc
+Ib
+Lm
+JD
+ba
+Tj
+IN
+CD
+JD
+HT
+Zw
+ti
+"}
+(12,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+JD
+JD
+JD
+YN
+cC
+HA
+JD
+HT
+ZO
+ZO
+er
+aC
+Lm
+vE
+si
+sa
+uX
+hu
+lZ
+si
+VE
+Lm
+JD
+ZN
+Tj
+IN
+Yy
+JD
+ZO
+px
+px
+"}
+(13,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+oQ
+jd
+JD
+YN
+LZ
+JD
+JD
+JD
+oL
+Ew
+Px
+yO
+Lm
+Lm
+Jm
+Lm
+hu
+uX
+Lm
+Lm
+Lm
+YJ
+JD
+xq
+Tj
+IN
+Hc
+JD
+ZO
+px
+px
+"}
+(14,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+pP
+uK
+kt
+YN
+Om
+JD
+kj
+RV
+kj
+RV
+cl
+JD
+JD
+JD
+JD
+JD
+Tj
+IN
+Zm
+Lg
+JD
+JD
+JD
+JD
+Tj
+IN
+xq
+JD
+HT
+ub
+Qn
+"}
+(15,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+JD
+JD
+JD
+YN
+cC
+JD
+aC
+aC
+aC
+aC
+Dq
+wu
+nX
+co
+ub
+nd
+Tj
+IN
+Eb
+BO
+JD
+cV
+Qq
+cU
+Tj
+Dg
+JD
+JD
+JD
+JD
+JD
+"}
+(16,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+vO
+hZ
+hZ
+nQ
+cC
+pf
+Qz
+Qz
+Qz
+HH
+QT
+Qz
+Qz
+Qz
+HH
+QT
+HH
+QT
+Qz
+Qz
+Qz
+Qz
+Qz
+Qz
+HH
+QT
+JD
+ZI
+ix
+Ee
+JD
+"}
+(17,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+js
+bn
+hK
+JS
+vk
+KM
+vk
+oi
+AT
+vk
+vk
+vk
+oi
+AT
+oi
+AT
+vk
+vk
+vk
+vk
+vk
+vk
+oi
+AT
+Bq
+SZ
+WR
+Hz
+JD
+"}
+(18,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+cC
+JD
+JD
+JD
+JD
+JD
+JD
+Tj
+nW
+UX
+db
+db
+KH
+Yj
+cB
+AB
+Yl
+De
+JD
+JD
+JD
+JD
+Tj
+IN
+Bq
+SZ
+RQ
+Sa
+JD
+"}
+(19,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+cC
+JD
+wu
+kj
+RV
+kj
+JD
+To
+nW
+pq
+MP
+MP
+KH
+Yj
+FI
+Pe
+nV
+TL
+JD
+ml
+OE
+JD
+Tj
+IN
+JD
+Mh
+eU
+rD
+JD
+"}
+(20,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+cC
+JD
+Fz
+aC
+aC
+aC
+JD
+Tj
+nW
+pq
+PD
+mx
+KH
+IN
+JD
+JD
+JD
+JD
+JD
+pP
+uK
+bG
+Tj
+Dg
+JD
+JD
+JD
+JD
+JD
+"}
+(21,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+LZ
+JD
+Wo
+aC
+ZO
+ot
+Qz
+HH
+la
+pq
+MP
+MP
+KH
+IN
+JD
+ZI
+ix
+Ee
+JD
+JD
+JD
+JD
+Tj
+IN
+JD
+ZI
+ix
+Ee
+JD
+"}
+(22,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+YN
+WN
+cC
+JD
+eE
+aC
+ZO
+Tj
+uX
+oi
+fB
+yJ
+FD
+pq
+KH
+IN
+Bq
+SZ
+Sa
+Hz
+JD
+JD
+JD
+JD
+Kf
+IN
+Bq
+SZ
+Sa
+Hz
+JD
+"}
+(23,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+aB
+aB
+aB
+JD
+JD
+JD
+JD
+JS
+JJ
+JD
+JD
+JD
+JD
+tq
+Tj
+IN
+Bq
+SZ
+WR
+WR
+JD
+pP
+aN
+pm
+Tj
+IN
+Bq
+SZ
+WR
+WR
+JD
+"}
+(24,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+IL
+lL
+lL
+Ul
+lL
+lL
+uV
+TB
+Pc
+Gk
+JD
+JV
+Tj
+Dg
+JD
+Mh
+eU
+rD
+JD
+ms
+Uv
+JD
+Tj
+IN
+JD
+Mh
+tM
+rD
+JD
+"}
+(25,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+WN
+WN
+WN
+WN
+WN
+WN
+WN
+oc
+GU
+Jw
+JD
+LN
+Tj
+IN
+JD
+JD
+JD
+JD
+JD
+JD
+JD
+JD
+Tj
+Dg
+JD
+JD
+JD
+JD
+JD
+"}
+(26,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+uP
+WJ
+WJ
+WJ
+WJ
+WJ
+ll
+WN
+ht
+mp
+JD
+Vl
+HH
+QT
+Qz
+Qz
+Qz
+Qz
+Qz
+Qz
+Qz
+Qz
+HH
+QT
+Qz
+HH
+QT
+cO
+JD
+"}
+(27,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+GU
+DX
+Fx
+ly
+Fx
+DX
+FR
+WN
+xG
+XP
+JD
+bi
+oi
+AT
+vk
+KM
+vk
+vk
+vk
+KM
+vk
+vk
+oi
+AT
+vk
+oi
+AT
+JV
+JD
+"}
+(28,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+GU
+Fx
+mR
+qW
+YQ
+Fx
+FR
+WN
+GU
+AS
+JD
+JD
+vu
+vu
+JD
+JD
+Bq
+JD
+JD
+JD
+JD
+Fz
+Tj
+IN
+Fz
+Tj
+IN
+Fz
+JD
+"}
+(29,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+GU
+zl
+gM
+aR
+dG
+QP
+FR
+WN
+GU
+Jw
+JD
+Uy
+SZ
+SZ
+JD
+VQ
+SZ
+Zt
+JD
+gu
+JD
+uG
+Tj
+IN
+xq
+Tj
+IN
+uG
+JD
+"}
+(30,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+JD
+FR
+WN
+GU
+Vo
+AV
+wp
+fp
+Vo
+FR
+WN
+GU
+Gk
+JD
+hb
+SZ
+sN
+JD
+SZ
+SZ
+SZ
+Bv
+gu
+JD
+wM
+Tj
+IN
+PF
+Tj
+IN
+wM
+JD
+"}
+(31,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Am
+sn
+Am
+sn
+Am
+pD
+ZJ
+fp
+Am
+sn
+Am
+sn
+Am
+JD
+an
+uL
+gs
+JD
+YY
+HS
+fo
+JD
+cy
+JD
+Am
+Wl
+Am
+JD
+Am
+Wl
+Am
+JD
+"}
+(32,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+ly
+Zn
+ly
+Zn
+mu
+HE
+oD
+Zn
+ly
+Zn
+ly
+Zn
+JD
+cF
+SZ
+sN
+JD
+bV
+EA
+Df
+JD
+gu
+JD
+Zn
+ly
+Zn
+JD
+Zn
+ly
+Zn
+JD
+"}
+(33,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+ly
+Zn
+ly
+Zn
+JD
+JD
+JD
+Zn
+ly
+Zn
+ly
+Zn
+JD
+vR
+SZ
+SZ
+JD
+bV
+Ig
+Df
+JD
+Bv
+JD
+pI
+Wl
+pI
+JD
+pI
+Wl
+pI
+JD
+"}
+(34,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+ly
+Zn
+ly
+Zn
+gD
+JD
+JD
+Zn
+ly
+Zn
+ly
+Zn
+JD
+CV
+kA
+iV
+JD
+bV
+QZ
+Df
+JD
+gu
+JD
+wO
+OK
+wO
+JD
+wO
+Xa
+wO
+JD
+"}
+(35,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+ly
+Zn
+ly
+Zn
+gD
+gD
+gD
+Zn
+ly
+Zn
+ly
+Zn
+JD
+JD
+JD
+JD
+JD
+jP
+EA
+fN
+JD
+mf
+JD
+wO
+wO
+wO
+JD
+wO
+wO
+wO
+JD
+"}
+(36,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+zl
+Zn
+ly
+KW
+Qe
+Qe
+Qe
+KW
+ly
+Zn
+QP
+Zn
+gD
+gD
+gD
+JD
+JD
+qc
+xH
+iW
+JD
+gu
+JD
+wO
+wO
+wO
+JD
+wO
+wO
+wO
+JD
+"}
+(37,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+ly
+Zn
+ly
+Zn
+gD
+gD
+gD
+Zn
+ly
+Zn
+ly
+Zn
+gD
+gD
+gD
+gD
+gD
+Qe
+gD
+gD
+JD
+JD
+EE
+wO
+wO
+wO
+EE
+wO
+wO
+wO
+EE
+"}
+(38,1,1) = {"
+wj
+wj
+wj
+wj
+wj
+wj
+Zn
+ly
+Zn
+ly
+Zn
+gD
+gD
+gD
+Zn
+ly
+Zn
+ly
+Zn
+gD
+gD
+gD
+gD
+gD
+Qe
+gD
+gD
+gD
+gD
+Qe
+gD
+gD
+gD
+Qe
+gD
+gD
+gD
+EE
+"}
