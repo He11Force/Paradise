@@ -1,0 +1,970 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"bs" = (
+/obj/structure/closet/crate/can,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"cB" = (
+/turf/unsimulated/wall,
+/area/centcom/zone1)
+"dc" = (
+/obj/machinery/disco{
+	anchored = 1
+	},
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"dn" = (
+/obj/effect/overlay/palmtree_l,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"dW" = (
+/obj/structure/flora/ausbushes/leafybush,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"eZ" = (
+/obj/effect/turf_decal/sand,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"fX" = (
+/obj/effect/turf_decal/sand/plating,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"gl" = (
+/turf/simulated/wall/mineral/sandstone,
+/area/centcom/zone1)
+"hk" = (
+/turf/simulated/floor/beach/water,
+/area/centcom/zone1)
+"hW" = (
+/obj/structure/flora/rock,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"kD" = (
+/obj/machinery/door/airlock/sandstone{
+	name = "Restroom"
+	},
+/obj/effect/turf_decal/sand,
+/turf/simulated/floor/plating,
+/area/centcom/zone1)
+"nt" = (
+/turf/simulated/floor/beach/coastline_t{
+	dir = 10
+	},
+/area/centcom/zone1)
+"oH" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 6;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/zone1)
+"pI" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/machinery/chem_dispenser/soda/upgraded,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"qs" = (
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"qI" = (
+/obj/item/instrument/banjo,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"qW" = (
+/turf/simulated/floor/beach/coastline_t{
+	dir = 8
+	},
+/area/centcom/zone1)
+"rl" = (
+/obj/machinery/vending/boozeomat,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"rs" = (
+/obj/machinery/light/small{
+	dir = 1
+	},
+/obj/structure/toilet{
+	dir = 4
+	},
+/obj/effect/turf_decal/sand,
+/turf/simulated/floor/plating,
+/area/centcom/zone1)
+"tu" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 1;
+	icon_state = "fakewindows2"
+	},
+/area/centcom/zone1)
+"ue" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 5;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/zone1)
+"uN" = (
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"ve" = (
+/turf/space,
+/area/space)
+"vp" = (
+/obj/structure/sink{
+	dir = 4;
+	pixel_x = 11
+	},
+/obj/structure/mirror{
+	pixel_x = 28
+	},
+/obj/effect/turf_decal/sand,
+/turf/simulated/floor/plating,
+/area/centcom/zone1)
+"vz" = (
+/turf/simulated/floor/beach/coastline_b{
+	dir = 8
+	},
+/area/centcom/zone1)
+"wI" = (
+/obj/structure/sign/barsign,
+/turf/simulated/wall/mineral/sandstone,
+/area/centcom/zone1)
+"xc" = (
+/obj/structure/sign/poster/official/random{
+	pixel_y = 30
+	},
+/obj/machinery/camera{
+	c_tag = "CentComm Zone 1-3";
+	network = list("CentComm")
+	},
+/obj/structure/chair,
+/turf/unsimulated/floor{
+	icon_state = "sepia"
+	},
+/area/centcom/zone1)
+"xF" = (
+/obj/structure/sign/poster/official/random{
+	pixel_y = 30
+	},
+/turf/unsimulated/floor{
+	dir = 4;
+	icon_state = "rampbottom"
+	},
+/area/centcom/zone1)
+"Ad" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/item/storage/fancy/cigarettes/cigpack_random,
+/obj/item/storage/fancy/cigarettes/cigpack_robust,
+/obj/item/storage/fancy/cigarettes/cigpack_robustgold,
+/obj/item/storage/fancy/cigarettes/cigpack_shadyjims,
+/obj/item/storage/fancy/cigarettes/cigpack_uplift,
+/obj/item/storage/fancy/cigarettes/dromedaryco,
+/obj/item/storage/fancy/cigarettes/cigpack_carp,
+/obj/item/toy/figure/bartender,
+/obj/item/storage/box/matches,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"Ah" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/obj/machinery/chem_dispenser/beer/upgraded,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"AD" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 10;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/zone1)
+"AH" = (
+/obj/machinery/bottler,
+/obj/structure/table,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"AM" = (
+/obj/effect/turf_decal/sand,
+/obj/effect/turf_decal/sand,
+/obj/item/flashlight/lantern,
+/turf/simulated/floor/plating,
+/area/centcom/zone1)
+"BL" = (
+/obj/effect/turf_decal/sand,
+/turf/simulated/floor/plating,
+/area/centcom/zone1)
+"EO" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 4;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/zone1)
+"Iq" = (
+/obj/item/clothing/shoes/sandal,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"Kp" = (
+/obj/structure/table/wood{
+	color = "#996633"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"LX" = (
+/obj/structure/weightmachine/weightlifter,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"Mk" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 1;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/zone1)
+"Mr" = (
+/mob/living/simple_animal/crab,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"Mw" = (
+/obj/structure/chair/stool/bar,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"MF" = (
+/obj/structure/flora/ausbushes/sparsegrass,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"Px" = (
+/obj/item/twohanded/required/kirbyplants,
+/obj/structure/sign/poster/official/random{
+	pixel_y = 30
+	},
+/turf/unsimulated/floor{
+	icon_state = "sepia"
+	},
+/area/centcom/zone1)
+"Qk" = (
+/turf/unsimulated/floor{
+	dir = 4;
+	icon_state = "rampbottom"
+	},
+/area/centcom/zone1)
+"Qq" = (
+/obj/structure/bed,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"Rs" = (
+/turf/unsimulated/wall/fakeglass{
+	dir = 9;
+	tag = "icon-fakewindows (WEST)"
+	},
+/area/centcom/zone1)
+"Si" = (
+/obj/structure/flora/ausbushes/stalkybush,
+/turf/simulated/floor/beach/water,
+/area/centcom/zone1)
+"Wu" = (
+/obj/structure/sign/poster/official/random{
+	pixel_y = 30
+	},
+/obj/structure/chair,
+/turf/unsimulated/floor{
+	icon_state = "sepia"
+	},
+/area/centcom/zone1)
+"Xn" = (
+/obj/structure/closet/secure_closet/bar{
+	req_access = null
+	},
+/obj/item/storage/box/beakers/bluespace,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/storage/box/drinkingglasses,
+/obj/item/reagent_containers/iv_bag/blood/random,
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+"XC" = (
+/turf/simulated/floor/beach/coastline_t{
+	dir = 9
+	},
+/area/centcom/zone1)
+"XN" = (
+/obj/structure/sign/restroom{
+	pixel_y = 30
+	},
+/turf/unsimulated/wall,
+/area/centcom/zone1)
+"XX" = (
+/obj/effect/overlay/coconut,
+/turf/simulated/floor/beach/sand,
+/area/centcom/zone1)
+"Yk" = (
+/obj/machinery/vending/dinnerware{
+	req_access_txt = "102"
+	},
+/turf/simulated/floor/wood,
+/area/centcom/zone1)
+
+(1,1,1) = {"
+ve
+ve
+ve
+ve
+ve
+ve
+Rs
+tu
+tu
+tu
+tu
+tu
+AD
+ve
+ve
+ve
+ve
+ve
+ve
+ve
+"}
+(2,1,1) = {"
+ve
+ve
+ve
+ve
+Rs
+tu
+oH
+hk
+hk
+hk
+hk
+hk
+ue
+tu
+AD
+ve
+ve
+ve
+ve
+cB
+"}
+(3,1,1) = {"
+ve
+ve
+Mk
+tu
+oH
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+ue
+AD
+ve
+ve
+ve
+cB
+"}
+(4,1,1) = {"
+cB
+cB
+cB
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+Si
+hk
+hk
+hk
+EO
+ve
+ve
+ve
+cB
+"}
+(5,1,1) = {"
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+cB
+cB
+cB
+cB
+cB
+"}
+(6,1,1) = {"
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+"}
+(7,1,1) = {"
+hk
+hk
+Si
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+"}
+(8,1,1) = {"
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+Si
+hk
+hk
+"}
+(9,1,1) = {"
+vz
+vz
+hk
+hk
+hk
+hk
+hk
+hk
+Si
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+"}
+(10,1,1) = {"
+hk
+hk
+vz
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+"}
+(11,1,1) = {"
+vz
+vz
+hk
+vz
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+"}
+(12,1,1) = {"
+qW
+nt
+vz
+hk
+vz
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+hk
+Si
+hk
+hk
+hk
+hk
+"}
+(13,1,1) = {"
+qs
+qs
+nt
+vz
+hk
+vz
+vz
+hk
+hk
+uN
+uN
+hk
+hk
+hk
+hk
+hk
+vz
+vz
+vz
+vz
+"}
+(14,1,1) = {"
+hW
+qs
+qs
+nt
+vz
+hk
+hk
+hk
+vz
+uN
+uN
+vz
+vz
+vz
+vz
+vz
+hk
+hk
+hk
+hk
+"}
+(15,1,1) = {"
+qs
+Mr
+qs
+qs
+nt
+vz
+vz
+hk
+hk
+uN
+uN
+hk
+hk
+hk
+hk
+hk
+vz
+vz
+vz
+vz
+"}
+(16,1,1) = {"
+qs
+qs
+qs
+qs
+qs
+qW
+qW
+nt
+vz
+uN
+uN
+vz
+vz
+vz
+vz
+vz
+XC
+qW
+qW
+qW
+"}
+(17,1,1) = {"
+qs
+qs
+qs
+dn
+XX
+MF
+qs
+qs
+qW
+uN
+uN
+qW
+qW
+qW
+qW
+qW
+qs
+qs
+dW
+qs
+"}
+(18,1,1) = {"
+dW
+qs
+qs
+qs
+qs
+qs
+Qq
+qI
+Qq
+dc
+uN
+qs
+Qq
+qs
+Qq
+qs
+Qq
+XX
+XX
+qs
+"}
+(19,1,1) = {"
+gl
+gl
+gl
+qs
+MF
+qs
+dn
+XX
+qs
+uN
+uN
+Mr
+qs
+qs
+qs
+qs
+dn
+qs
+dn
+qs
+"}
+(20,1,1) = {"
+rs
+AM
+gl
+fX
+qs
+qs
+qs
+fX
+eZ
+eZ
+fX
+eZ
+eZ
+eZ
+fX
+qs
+qs
+MF
+qs
+qs
+"}
+(21,1,1) = {"
+vp
+BL
+kD
+fX
+fX
+fX
+eZ
+eZ
+eZ
+eZ
+fX
+eZ
+fX
+fX
+eZ
+fX
+qs
+qs
+dW
+qs
+"}
+(22,1,1) = {"
+gl
+gl
+gl
+bs
+eZ
+eZ
+qs
+qs
+qs
+qs
+qs
+qs
+dn
+XX
+qs
+eZ
+qs
+qs
+qs
+qs
+"}
+(23,1,1) = {"
+hW
+qs
+qs
+qs
+fX
+fX
+dW
+qs
+qs
+qs
+dn
+gl
+Mw
+Mw
+Mw
+Mw
+Mw
+Mw
+cB
+cB
+"}
+(24,1,1) = {"
+MF
+LX
+qs
+fX
+eZ
+qs
+qs
+qs
+qs
+qs
+XX
+wI
+Ad
+Kp
+Kp
+Kp
+Kp
+Kp
+cB
+cB
+"}
+(25,1,1) = {"
+qs
+qs
+qs
+eZ
+fX
+qs
+qs
+hW
+qs
+dW
+qs
+gl
+uN
+uN
+uN
+uN
+uN
+uN
+cB
+cB
+"}
+(26,1,1) = {"
+MF
+LX
+qs
+eZ
+fX
+qs
+qs
+qs
+MF
+qs
+qs
+gl
+uN
+uN
+uN
+uN
+uN
+uN
+cB
+cB
+"}
+(27,1,1) = {"
+qs
+qs
+Iq
+fX
+eZ
+Iq
+MF
+qs
+qs
+qs
+qs
+uN
+uN
+uN
+uN
+uN
+uN
+uN
+cB
+Px
+"}
+(28,1,1) = {"
+qs
+hW
+Iq
+fX
+eZ
+Iq
+qs
+qs
+dW
+qs
+qs
+uN
+uN
+uN
+uN
+uN
+uN
+uN
+cB
+Wu
+"}
+(29,1,1) = {"
+cB
+qs
+Iq
+eZ
+eZ
+Iq
+qs
+MF
+qs
+qs
+qs
+gl
+Xn
+Yk
+AH
+pI
+Ah
+rl
+cB
+Wu
+"}
+(30,1,1) = {"
+cB
+cB
+cB
+xF
+Qk
+cB
+cB
+cB
+cB
+cB
+cB
+cB
+cB
+cB
+XN
+cB
+cB
+cB
+cB
+xc
+"}
