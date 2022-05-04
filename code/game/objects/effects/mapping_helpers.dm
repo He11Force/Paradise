@@ -2,7 +2,6 @@
 	name = "baseturf editor"
 	icon = 'icons/effects/mapping_helpers.dmi'
 	icon_state = ""
-
 	var/baseturf
 
 	layer = POINT_LAYER
@@ -57,15 +56,13 @@
 /obj/effect/mapping_helpers
 	icon = 'icons/effects/mapping_helpers.dmi'
 	icon_state = ""
+	layer = 10
 	var/late = FALSE
 
 /obj/effect/mapping_helpers/Initialize(mapload)
 	..()
-	
-	return late ? INITIALIZE_HINT_LATELOAD : qdel(src) // INITIALIZE_HINT_QDEL <-- Doesn't work
 
-/obj/effect/mapping_helpers/no_lava
-	icon_state = "no_lava"
+	return late ? INITIALIZE_HINT_LATELOAD : qdel(src) // INITIALIZE_HINT_QDEL <-- Doesn't work
 
 /obj/effect/mapping_helpers/airlock
 	layer = DOOR_HELPER_LAYER
@@ -83,8 +80,23 @@
 		airlock.unres_sides ^= dir
 	else
 		log_world("### MAP WARNING, [src] failed to find an airlock at [AREACOORD(src)]")
-	..()	
+	..()
+
+/obj/effect/mapping_helpers/no_lava
+	icon_state = "no_lava"
+
 /obj/effect/mapping_helpers/no_lava/New()
 	var/turf/T = get_turf(src)
 	T.flags |= NO_LAVA_GEN
+	. = ..()
+
+/obj/effect/mapping_helpers/light
+	icon_state = "sunlight_helper"
+	light_power = 1
+	light_range = 10
+
+/obj/effect/mapping_helpers/light/New()
+	var/turf/T = get_turf(src)
+	T.light_power = light_power
+	T.light_range = light_range
 	. = ..()

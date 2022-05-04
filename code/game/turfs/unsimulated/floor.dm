@@ -20,6 +20,20 @@
 	. = ..()
 	icon_state = "grass[rand(1,4)]"
 
+/turf/unsimulated/floor/asteroid
+	name = "sand"
+	icon = 'icons/turf/floors/plating.dmi'
+	icon_state = "asteroid"
+	footstep_sounds = list(
+		"human" = list('sound/effects/footstep/asteroid1.ogg','sound/effects/footstep/asteroid2.ogg','sound/effects/footstep/asteroid3.ogg','sound/effects/footstep/asteroid4.ogg','sound/effects/footstep/asteroid5.ogg'),
+		"xeno"  = list('sound/effects/footstep/asteroid1.ogg','sound/effects/footstep/asteroid2.ogg','sound/effects/footstep/asteroid3.ogg','sound/effects/footstep/asteroid4.ogg','sound/effects/footstep/asteroid5.ogg')
+	)
+
+/turf/unsimulated/floor/asteroid/Initialize(mapload)
+	. = ..()
+	if(prob(20))
+		icon_state = "asteroid[rand(0,12)]"
+
 /turf/unsimulated/floor/snow
 	name = "snow"
 	icon = 'icons/turf/snow.dmi'

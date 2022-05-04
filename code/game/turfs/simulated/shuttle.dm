@@ -78,3 +78,25 @@
 	name = "skipjack floor"
 	oxygen = 0
 	nitrogen = MOLES_N2STANDARD + MOLES_O2STANDARD
+
+/obj/structure/shuttle_wall_corner
+	name = "wall"
+	icon = 'icons/turf/shuttle.dmi'
+	layer = 2
+	icon_state = "diagonalWall"
+	anchored = TRUE
+	opacity = TRUE
+	density = TRUE
+	resistance_flags = INDESTRUCTIBLE
+
+/obj/structure/shuttle_wall_corner/Initialize(mapload)
+	. = ..()
+	air_update_turf(TRUE)
+
+/obj/structure/shuttle_wall_corner/CanAtmosPass(turf/T)
+	return FALSE
+
+/obj/structure/shuttle_wall_corner/Destroy()
+	var/turf/T = get_turf(src)
+	. = ..()
+	T.air_update_turf(TRUE)
