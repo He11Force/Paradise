@@ -187,3 +187,11 @@
 /obj/effect/turf_decal/mech
 	icon_state = "mech_floor"
 	icon_state = "mech_floor"
+
+// Black
+/obj/effect/turf_decal/stripes/black
+	icon_state = "bs_line"
+
+// Gold
+/obj/effect/turf_decal/stripes/gold
+	icon_state = "gs_line"

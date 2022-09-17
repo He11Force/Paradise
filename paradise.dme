@@ -852,7 +852,6 @@
 #include "code\game\objects\effects\decals\gold_stripes.dm"
 #include "code\game\objects\effects\decals\misc.dm"
 #include "code\game\objects\effects\decals\remains.dm"
-#include "code\game\objects\effects\decals\stripes.dm"
 #include "code\game\objects\effects\decals\syndie_logo_decals.dm"
 #include "code\game\objects\effects\decals\warning_stripes.dm"
 #include "code\game\objects\effects\decals\Cleanable\aliens.dm"
